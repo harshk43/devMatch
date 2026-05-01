@@ -688,7 +688,7 @@ Possible follow-ups (not in current scope):
 
 ## Author
 
-Built by **Sameet Patro** as a 6th-semester FSD assignment.
+Built by **Sameet Patro & Harsh Kaldoke** as a 6th-semester FSD assignment.
 Repo: https://github.com/Sameetpatro/devMatch
 
 ---
